@@ -1,7 +1,6 @@
 <div align="center">
   
-# DOWNTIME - SIGNATURES BROKEN  
-Do not complain about Phobia not loading, A signature has broken in the recent update
+# Update in progress  
 # Phobia - A Hyper Advanced Fork of Amalgam
 
   ## <img src="LogoPNG.png" alt="Amalgam" height="100">
