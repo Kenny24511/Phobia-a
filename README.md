@@ -8,8 +8,7 @@
   [![Workflow status](https://img.shields.io/github/actions/workflow/status/NihonFemStyle/Phobia/msbuild.yml?branch=master&style=for-the-badge)](/../../actions)
   [![Commit activity](https://img.shields.io/github/commit-activity/m/NihonFemStyle/Phobia?style=for-the-badge)](/../../commits/)
   
-  [![Download AVX2](.github/assets/download_avx2.svg)](https://nightly.link/NihonFemStyle/Phobia/workflows/msbuild/master/Amalgamx64ReleaseAVX2.zip)
-  [![PDB AVX2](.github/assets/pdb.svg)](https://nightly.link/NihonFemStyle/Phobia/workflows/msbuild/master/Amalgamx64ReleaseAVX2PDB.zip)
+downloads are fucked you need to build from source
 
   <sub>AVX2 may be faster than SSE2 though not all CPUs support it (`Steam > Help > System Information > Processor Information > AVX2`). Freetype uses freetype as the text rasterizer and includes some custom fonts, which results in better looking text but larger DLL sizes. PDBs are for developer use. </sub>
   <br><br>
